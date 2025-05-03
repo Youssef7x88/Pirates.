@@ -1,5 +1,5 @@
 
--- AutoFruitsX - Advanced Blox Fruits Script with Draggable and Closable UI
+-- AutoFruitsX - Advanced Blox Fruit
 
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
 local Window = Library.CreateLib("AutoFruitsX", "Midnight")
